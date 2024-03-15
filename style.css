@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+.bg{
+    background-image: url("images/bg\ for\ shoplogix.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.head{
+    font-family: "Madimi One", sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 4em;
+}
+.subttl{
+    font-family: "Delicious Handrawn", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 1em;
+}
+.form-control{
+    height: 3em;
+    width: 6em;
+}
+.btn{
+    height: 3em;
+}
